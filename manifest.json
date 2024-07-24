@@ -1,0 +1,78 @@
+{
+  "id": "patchlytics",
+  "name": "Patchlytics",
+  "short_name": "Patchy",
+  "orientation": "portrait",
+  "display": "fullscreen",
+  "start_url": "/",
+  "scope": "/",
+  "theme_color": "#FFF",
+  "background_color": "#FFF",
+  "display_override": ["window-controls-overlay"],
+  "icons": [
+    {
+      "src": "/icon_48x48.png",
+      "sizes": "48x48",
+      "purpose": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_144x144.png",
+      "sizes": "144x144",
+      "purpose": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.png",
+      "sizes": "384x384",
+      "purpose": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.png",
+      "sizes": "512x512",
+      "purpose": "any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_48x48.png",
+      "sizes": "48x48",
+      "purpose": "maskable",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_144x144.png",
+      "sizes": "144x144",
+      "purpose": "maskable",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.png",
+      "sizes": "384x384",
+      "purpose": "maskable",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.png",
+      "sizes": "512x512",
+      "purpose": "maskable",
+      "type": "image/png"
+    }
+  ],
+  "screenshots" : [
+    {
+      "src": "screenshot_wide_2023-11-26.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Homescreen of Awesome App"
+    },
+    {
+      "src": "screenshot_narrow_2023-11-26.png",
+      "sizes": "1442x3202",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Homescreen of Awesome App"
+    }
+  ]
+}
