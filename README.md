@@ -1,1 +1,1 @@
-patchlytics.com
+https://patchlytics.com
