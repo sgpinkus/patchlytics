@@ -4,6 +4,7 @@
   "short_name": "Patchy",
   "orientation": "portrait",
   "display": "fullscreen",
+  "description": "Patchlytics",
   "start_url": "/",
   "scope": "/",
   "theme_color": "#FFF",
